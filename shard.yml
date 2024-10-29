@@ -4,7 +4,7 @@ version: 1.0.0
 authors:
   - Alexandre Lairan <lairana@free.fr>
 
-crystal: ">= 1.0.0"
+#crystal: ">= 1.0.0"
 
 license: MIT
 
